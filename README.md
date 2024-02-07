@@ -8,6 +8,7 @@ Swagger MicroBanco - Reactive Banking Platform 3.0
 * Use Stream
 * "Reactive X" is pending
 * "Observer" is pending
+* Perform all mandatory functionalities, pending
 
 
 * Microservices Framework Preview
